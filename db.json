@@ -6,7 +6,7 @@
     "price": 5.99,
     "description": "Paire de chaussettes confortables en coton.",
     "stock": 3,
-    "image": "/images/blue_socks.jpg"
+    "image": "/images/socks_blue.jpg"
   },
   {
     "id": 2,
@@ -14,6 +14,6 @@
     "price": 7.99,
     "description": "Chaussettes adaptées pour les activités sportives.",
     "stock": 5,
-    "image": "/images/green_socks.jpg"
+    "image": "/images/socks_green.jpg"
   }
   ]}
