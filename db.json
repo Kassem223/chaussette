@@ -1,19 +1,19 @@
 {
   "chaussettes": [
     {
-      "id": 1,
-      "name": "Chaussettes Classiques",
-      "price": 5.99,
-      "description": "Paire de chaussettes confortables en coton.",
-      "stock": 100,
-      "image": "chaussettes_classiques.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Chaussettes Sport",
-      "price": 7.99,
-      "description": "Chaussettes adaptées pour les activités sportives.",
-      "stock": 50,
-      "image": "chaussettes_sport.jpg"
-    }
+    "id": 1,
+    "name": "Chaussettes Classiques",
+    "price": 5.99,
+    "description": "Paire de chaussettes confortables en coton.",
+    "stock": 3,
+    "image": "/images/chaussettes_classiques.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chaussettes Sport",
+    "price": 7.99,
+    "description": "Chaussettes adaptées pour les activités sportives.",
+    "stock": 5,
+    "image": "/images/chaussettes_sport.jpg"
+  }
   ]}
